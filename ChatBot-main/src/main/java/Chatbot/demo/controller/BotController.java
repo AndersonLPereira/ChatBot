@@ -37,6 +37,7 @@ public class BotController {
      				+ "[LINK DO CARDAPIO]";
      		
      	//teste
+     		//6516511
      	default:
          return "Desculpe, não entendi sua mensagem. Tente selecionar umas das opções sugeridas"
          		+ "(1, 2, 3 ou 4)";
